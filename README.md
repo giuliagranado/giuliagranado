@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Giulia Granado 👋</h1>
 <h3 align="center">Estudante de Ciência de Dados</h3>
 
-- 🌱 Atualmente estou focada nos estudos em tudo que engloba a área de dados: **Python, MySQL Server, Linguagem SQL, Power BI**, entre outros.
+- 🌱 Atualmente estou focada nos estudos de tudo que engloba a área de dados: **Python, MySQL Server, Linguagem SQL, Power BI**, entre outros.
 - 📫 Como você me encontra: **giulia.granado@gmail.com**
 - 📄 Saiba mais sobre mim: [LinkedIn](https://www.linkedin.com/in/giulia-granado-06b737302)
 
