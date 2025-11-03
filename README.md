@@ -52,10 +52,9 @@
 
 <h3 align="left">Projetos em destaque:</h3>
 <ul>
-  <li><a href="https://github.com/giuliagranado/Python---DIO">Python - DIO</a></li>
-  <li><a href="https://github.com/giuliagranado/Projeto-site">Projeto Site</a></li>
-  <li><a href="https://github.com/giuliagranado/Ola-mundo">Olá Mundo</a></li>
-  <li><a href="https://github.com/digitalinnovationone/dio-lab-open-source">DIO Lab Open Source</a></li>
+  <li><a href="https://github.com/giuliagranado/Learning-Python">Learning-Python</a></li>
+  <li><a href="https://github.com/giuliagranado/Python---DIO](https://github.com/giuliagranado/book-recommender">book-recommender</a></li>
+  <li><a href="https://github.com/giuliagranado/bwfilter-python">bwfilter-python</a></li>
 </ul>
 
 ---
