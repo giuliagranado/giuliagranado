@@ -53,10 +53,8 @@
 <ul>
   <li>📚 <a href="https://github.com/giuliagranado/book-recommender">book-recommender</a> — sistema de recomendação de livros com TF-IDF e similaridade de cosseno (Python, Pandas, Scikit-learn)</li>
   <li>🐍 <a href="https://github.com/giuliagranado/Learning-Python">Learning-Python</a> — exercícios e estudos de lógica de programação em Python</li>
-</ul>
   <li>🗺️ <a href="https://github.com/giuliagranado/Mapa-do-Crime_PI-1">Mapa do Crime</a> — O projeto combina pipeline de dados (ETL) e dashboards interativos para transformar dados brutos em informações úteis, apoiando pesquisas acadêmicas e oferecendo insights relevantes para a sociedade</li>
-</ul>
-  <li>🗺️ <a href="https://github.com/giuliagranado/PortoSantos_pi2">Porto Santos - PI II</a> — Projeto em Ciência de Dados que analisa a emissão de poluentes dos navios que atracam no Porto de Santos entre 2020 e 2025, cruzando dados de atracação, tonelagem movimentada e faturamento do porto, aplicando a metodologia TRL para estimar as emissões por embarcação.</li>
+  <li>📋 <a href="https://github.com/giuliagranado/PortoSantos_pi2">Porto Santos PI II</a> — Analisa a emissão de poluentes dos navios que atracam no Porto de Santos, cruzando dados de atracação, tonelagem movimentada e faturamento do porto, aplicando a metodologia TRL para estimar as emissões por embarcação. </li>
 </ul>
 
 ---
