@@ -11,7 +11,6 @@
 - 📊 Projetos em destaque: **Mapa do Crime** e **PortoHack-2026** (veja abaixo)
 - 📫 Como me encontrar: **giulia.granado@gmail.com**
 - 📄 Saiba mais: [LinkedIn](https://www.linkedin.com/in/giuliagranado)
-- 💼 Portfólio: este perfil do GitHub
 ---
  
 <h3 align="left">Conecte-se comigo:</h3>
@@ -73,7 +72,8 @@ Pesquisa acadêmica sobre criminalidade na Baixada Santista entre 2017 e 2024. U
 <p align="center">
   <img src="https://raw.githubusercontent.com/giuliagranado/Mapa-do-Crime_PI-1/main/dashboard/Fotodashboard.jpeg" alt="Dashboard do Mapa do Crime no Power BI" width="85%" />
 </p>
-### 🚢 [PortoHack-2026 (DataWave)](https://github.com/giuliagranado/PortoHack-2026)
+
+### 🚢 [PortoHack2026 - DataWave](https://github.com/giuliagranado/PortoHack-2026)
  
 Solução para o Porto Hack Santos 2026. Prevê o risco de retenção de uma carga e indica o melhor destino: cais ou retroporto. Também audita o cadastro de produtos da DUIMP antes do desembaraço.
  
@@ -87,7 +87,6 @@ Solução para o Porto Hack Santos 2026. Prevê o risco de retenção de uma car
   <img src="https://raw.githubusercontent.com/giuliagranado/PortoHack-2026/main/resultadoFinal/prints/01_capa.png" alt="Página inicial do DataWave" width="48%" />
   <img src="https://raw.githubusercontent.com/giuliagranado/PortoHack-2026/main/resultadoFinal/prints/02_primeiraTela.png" alt="Tela de validação cadastral do DataWave" width="48%" />
 </p>
----
  
 ## 📚 Mais projetos
  
